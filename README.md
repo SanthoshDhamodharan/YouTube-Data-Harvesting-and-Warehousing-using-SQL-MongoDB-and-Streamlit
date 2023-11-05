@@ -18,7 +18,7 @@ YouTube Data Harvesting and Warehousing is a project aimed at developing a user-
 - Data Collection
 - API integration
 - Streamlit
-- Data Management using MongoDB (Atlas) and SQL
+- Data Management using MongoDB Cloud (Atlas) and SQL (PostgreSQL)
 
 **Installation**
 
