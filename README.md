@@ -29,7 +29,6 @@ pip install pymongo
 pip install pandas
 pip install psycopg2
 pip install streamlit
-pip install plotly
 ```
 
 **Usage**
