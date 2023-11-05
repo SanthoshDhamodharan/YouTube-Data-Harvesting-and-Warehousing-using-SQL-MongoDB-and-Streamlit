@@ -54,6 +54,6 @@ Contributions to this project are welcome! If you encounter any issues or have s
 
 **Contact**
 
-📧 Email: sdsanthosh1992@gmail.com 
+Email: sdsanthosh1992@gmail.com 
 
-🌐 LinkedIn: [linkedin.com/in/santhosh-sd-0381a69b](https://www.linkedin.com/in/santhosh-sd-0381a69b)
+LinkedIn: [linkedin.com/in/santhosh-sd-0381a69b](https://www.linkedin.com/in/santhosh-sd-0381a69b)
